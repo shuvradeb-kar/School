@@ -1,0 +1,13 @@
+# git ignore file
+*.dll
+*.pdb
+*.user
+*.suo
+*.Fakes.*
+obj/
+bin/
+.vs/
+/TestResults/
+FakesAssemblies/
+*.json
+.vs/config/applicationhost.config
